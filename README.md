@@ -1,6 +1,6 @@
 
 
-# An Efficient and Precise Dynamic Neighbor Graph Network for Crop Mapping Using Unmanned Aerial Vehicle Hyperspectral Imagery 
+# [An Efficient and Precise Dynamic Neighbor Graph Network for Crop Mapping Using Unmanned Aerial Vehicle Hyperspectral Imagery](https://doi.org/10.1016/j.compag.2024.109838)
 
 Tao Zhang, Chuanzhong Xuan, Yanhua Ma, Zhaohui Tang, Xinyu Gao
 
