@@ -13,12 +13,16 @@ Tao Zhang, Chuanzhong Xuan, Yanhua Ma, Zhaohui Tang, Xinyu Gao
 ## Citation
 If this code is useful for your research, please cite this paper.
 ```
-
-```
-
-```
-
-
+@article{zhang2025,
+    author = {Zhang, Tao and Xuan, Chuanzhong and Ma, Yanhua and Tang, Zhaohui and Gao, Xinyu},
+    title = {An efficient and precise dynamic neighbor graph network for crop mapping using unmanned aerial vehicle hyperspectral imagery},
+    journal = {Computers and Electronics in Agriculture},
+    year = {2025},
+    month = {3},
+    volume = {230},
+    pages = {109838},
+    doi = {10.1016/j.compag.2024.109838},
+}
 ```
 
 ## Acknowledgment
